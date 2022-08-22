@@ -4,3 +4,5 @@ Used a pharmaceutical database and cleaned the data for variables of the drug Al
 Implemented various Machine Learning algorithms such as KNN, SVM and Logistic Regression.
 
 Code was lost when repaired computer but basically used the sklearn libraries for the algorithms tested. 
+
+PDF document is the research paper for the project. 
